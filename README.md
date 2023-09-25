@@ -1,4 +1,4 @@
-# AutoCap: Automatic Image Captioning - An AC215 DevOps project
+# VisualPhrase: Automatic Image Captioning - A DevOps project
 
 ## File structure
 ```
